@@ -55,7 +55,6 @@ function zimbraLogin($username, $password)
 		return false;
 	}	
 ?>
-
 <html>
 <head>
 <title>TEST LOGIN ZIMBRA</title>
