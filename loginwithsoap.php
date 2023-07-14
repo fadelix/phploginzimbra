@@ -1,4 +1,8 @@
-<?php  
+<?php 
+
+// PHP Login page Using Zimbra mail account
+// mfadly.n@gmail.com
+// gosyari.com
 
 if (isset($_POST['userid']) and isset($_POST['userpass'])){
 	
