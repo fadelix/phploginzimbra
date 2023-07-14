@@ -23,7 +23,7 @@ function zimbraLogin($username, $password)
 
 	{
 
-$url = 'https://mail.hariffdp.com/service/soap';
+$url = 'https://yourzimbra.com/service/soap';
 
 $data = [
     "Header" => [
